@@ -1,1 +1,1 @@
-# PennStateGymInventory
+# PSUGymInventory
